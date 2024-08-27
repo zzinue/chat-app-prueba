@@ -1,0 +1,6 @@
+{"orgId":"team_CdFktn9FrY2s86D0Apcjl4qE","projectId":"prj_hoAbIt4SkDbTsqt8TJ1PEQPBBTz1",
+"rewrites":  [
+    {"source": "/(.*)", "destination": "/"}
+  ]
+
+}
